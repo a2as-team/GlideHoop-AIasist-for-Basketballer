@@ -13,18 +13,18 @@
 </div>
 
 [page-image]: https://img.shields.io/badge/Page-know_more-black?style=flat-square
-[License-image]: https://img.shields.io/github/license/LHS183019/AIBasicFinalProject?style=flat-square&color=brown
-[Releases-image]: https://img.shields.io/github/v/release/LHS183019/AIBasicFinalProject?include_prereleases&sort=semver&color=orange&label=Latest%20Pre-release
-[Installation-image]: https://img.shields.io/github/downloads/LHS183019/AIBasicFinalProject/total?style=flat-square&color=blue
+[License-image]: https://img.shields.io/github/license/LHS183019/GlideHoop-AIasist-for-Basketballer?style=flat-square&color=brown
+[Releases-image]: https://img.shields.io/github/v/release/LHS183019/GlideHoop-AIasist-for-Basketballer?include_prereleases&sort=semver&color=orange&label=Latest%20Pre-release
+[Installation-image]: https://img.shields.io/github/downloads/LHS183019/GlideHoop-AIasist-for-Basketballer/total?style=flat-square&color=blue
 [PythonVersion-image]: https://img.shields.io/badge/Python-3.11-yellow?style=flat-square&labelColor=blue
 [report-image]: https://img.shields.io/badge/Tech_report-download-black?style=flat-square
 
-[page-url]: https://lhs183019.github.io/AIBasicFinalProject/
-[License-url]: https://github.com/LHS183019/AIBasicFinalProject/blob/main/COPYING
-[Releases-url]: https://github.com/LHS183019/AIBasicFinalProject/releases
-[Installation-url]: https://github.com/LHS183019/AIBasicFinalProject/releases
-[PythonVersion-url]: https://github.com/LHS183019/AIBasicFinalProject/pulls
-[report-url]: https://github.com/LHS183019/AIBasicFinalProject/blob/main/aibasis_report/main.pdf
+[page-url]: https://lhs183019.github.io/GlideHoop-AIasist-for-Basketballer/
+[License-url]: https://github.com/LHS183019/GlideHoop-AIasist-for-Basketballer/blob/main/COPYING
+[Releases-url]: https://github.com/LHS183019/GlideHoop-AIasist-for-Basketballer/releases
+[Installation-url]: https://github.com/LHS183019/GlideHoop-AIasist-for-Basketballer/releases
+[PythonVersion-url]: https://github.com/LHS183019/GlideHoop-AIasist-for-Basketballer/pulls
+[report-url]: https://github.com/LHS183019/GlideHoop-AIasist-for-Basketballer/blob/main/aibasis_report/main.pdf
 
 ---
 
@@ -130,7 +130,7 @@
 <details>
   <summary><b>More Features...</b></summary>
   And there's more...
-  * [Full Feature Description](https://lhs183019.github.io/AIBasicFinalProject/)
+  * [Full Feature Description](https://lhs183019.github.io/GlideHoop-AIasist-for-Basketballer/)
 
   + Or, do you have any suggestions? Feel free to share them with us!
 </details>
@@ -153,7 +153,7 @@ Follow these steps to easily set up GlideHoop🐧
 
 **Step 1: Download our source code to your computer.**
 
-[Download the latest trial version](https://github.com/LHS183019/AIBasicFinalProject/releases/download/v1.4.1/v1.4.1-release.zip) and extract it.
+[Download the latest trial version](https://github.com/LHS183019/GlideHoop-AIasist-for-Basketballer/releases/download/v1.4.1/v1.4.1-release.zip) and extract it.
 
 Then, navigate to our root directory via the command line:
 
@@ -291,7 +291,7 @@ In the top-left dropdown menu, select "basketball_coach" as the conversation age
 
 Now you can start debugging and using it!
 
-  - For usage of this interface, please refer to our [Guide](https://lhs183019.github.io/AIBasicFinalProject/)
+  - For usage of this interface, please refer to our [Guide](https://lhs183019.github.io/GlideHoop-AIasist-for-Basketballer/)
   - For the design of this interface, you can [refer to the official introduction](https://github.com/google/adk-web?tab=readme-ov-file)
 
 You can also run our Agent in the CLI by changing `adk web` to:
