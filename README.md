@@ -21,7 +21,7 @@
 [report-image]: https://img.shields.io/badge/Tech_report-download-black?style=flat-square
 
 
-[page-url]: https://lhs183019.github.io/AIBasicFinalProject/
+[page-url]: https://lhs183019.github.io/GlideHoop-AIasist-for-Basketballer/
 [License-url]: https://github.com/LHS183019/AIBasicFinalProject/blob/main/COPYING
 [Releases-url]: https://github.com/LHS183019/AIBasicFinalProject/releases
 [Installation-url]: https://github.com/LHS183019/GlideHoop-AIasist-for-Basketballer
