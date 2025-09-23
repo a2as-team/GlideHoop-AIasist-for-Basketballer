@@ -14,9 +14,9 @@
 </div>
 
 [page-image]: https://img.shields.io/badge/Page-know_more-black?style=flat-square
-[License-image]: https://img.shields.io/github/license/LHS183019/AIBasicFinalProject?style=flat-square&color=brown
-[Releases-image]: https://img.shields.io/github/v/release/LHS183019/AIBasicFinalProject?include_prereleases&sort=semver&color=orange&label=Pre-release
-[Installation-image]: https://img.shields.io/github/downloads/LHS183019/AIBasicFinalProject/total?style=flat-square&color=blue
+[License-image]: https://img.shields.io/github/license/LHS183019/GlideHoop-AIasist-for-Basketballer?style=flat-square&color=brown
+[Releases-image]: https://img.shields.io/github/v/release/LHS183019/GlideHoop-AIasist-for-Basketballer?include_prereleases&sort=semver&color=orange&label=Pre-release
+[Installation-image]: https://img.shields.io/github/downloads/LHS183019/GlideHoop-AIasist-for-Basketballer/total?style=flat-square&color=blue
 [PythonVersion-image]: https://img.shields.io/badge/Python-3.11-yellow?style=flat-square&labelColor=blue
 [report-image]: https://img.shields.io/badge/Tech_report-download-black?style=flat-square
 
@@ -24,9 +24,9 @@
 [page-url]: https://lhs183019.github.io/AIBasicFinalProject/
 [License-url]: https://github.com/LHS183019/AIBasicFinalProject/blob/main/COPYING
 [Releases-url]: https://github.com/LHS183019/AIBasicFinalProject/releases
-[Installation-url]: https://github.com/LHS183019/AIBasicFinalProject
-[PythonVersion-url]: https://github.com/LHS183019/AIBasicFinalProject/pulls
-[report-url]: https://github.com/LHS183019/AIBasicFinalProject/blob/main/aibasis_report/main.pdf
+[Installation-url]: https://github.com/LHS183019/GlideHoop-AIasist-for-Basketballer
+[PythonVersion-url]: https://github.com/LHS183019/GlideHoop-AIasist-for-Basketballer/pulls
+[report-url]: https://github.com/LHS183019/GlideHoop-AIasist-for-Basketballer/blob/main/aibasis_report/main.pdf
 
 ---
 
@@ -165,7 +165,7 @@
 
 **第一步：下载我们的源代码至您的电脑**
 
-[下载最新试用版](https://github.com/LHS183019/AIBasicFinalProject/releases/download/v1.4.1/v1.4.1-release.zip)并解压缩
+[下载最新试用版](https://github.com/LHS183019/GlideHoop-AIasist-for-Basketballer/releases/download/v1.4.1/v1.4.1-release.zip)并解压缩
 
 然后透过命令行切换到我们的根目录：
 
@@ -298,7 +298,7 @@ adk将会在本地设置伺服器，最后会打印设置信息，包括本地�
 ![the left button](asset/readme_visual_aid1.png)
 
 然后就可以开始调试和使用啦。
-+ 关于这个界面的使用，可以参考我们的[指南](https://lhs183019.github.io/AIBasicFinalProject/)
++ 关于这个界面的使用，可以参考我们的[指南](https://lhs183019.github.io/GlideHoop-AIasist-for-Basketballer/)
 + 关于这个界面的设计，可以[参考官方介绍](https://github.com/google/adk-web?tab=readme-ov-file)
 
 您还可以在CLI中运行我们的Agent，只需要把`adk web`改为：
